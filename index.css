@@ -75,7 +75,6 @@
   input[type="button"][value="0"] {
     grid-column: span 2;
   }
-
   .Mostrar{
     position: absolute;
     background-color: gray;
@@ -98,7 +97,6 @@
         padding: .3em;
     }
   }
-
   .noMostrar{
     position: absolute;
     visibility: hidden;
